@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ]
+  ],
+  "legacy_uid": "2b701276-6e26-2962-6a95-3ec8e7f8f29a",
+  "instructors": {
+    "content": [
+      "a5124ee9-c86b-23b8-e945-c3deca35d08f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a4ad8e00-d9ad-1d00-68f4-9be2a556c272",
+    "website": "21h-571-the-making-of-modern-south-asia-fall-2006"
+  },
+  "course_title": "The Making of Modern South Asia",
+  "hide_download": true,
+  "course_description": "Survey of Indian civilization from 2500 BC to present-day. Traces major political events as well as economic, social, ecological, and cultural developments. Primary and secondary readings enhance understanding of this unique civilization, and shape and improve understanding in analyzing and interpreting historical data. Examines major thematic debates in Indian history through class discussion.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.571",
+  "course_image_thumbnail": {
+    "content": "f3ed6cec-daec-64c6-a49f-1a4ce0a19cef",
+    "website": "21h-571-the-making-of-modern-south-asia-fall-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "01074a4b-c440-41a8-a1ac-fc96d3362dc1",
+  "site_short_id": "21h.571-fall-2006",
+  "site_url_path": "courses/21h-571-the-making-of-modern-south-asia-fall-2006",
+  "title": "Course Metadata"
+}
