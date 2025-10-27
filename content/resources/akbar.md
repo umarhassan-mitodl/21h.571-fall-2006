@@ -4,8 +4,6 @@ description: This resource contains a list of terms to know about India under Ak
 file: /courses/21h-571-the-making-of-modern-south-asia-fall-2006/c5af369bb0f1cc844cabcc56c0db3ed4_akbar.pdf
 file_size: 21044
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

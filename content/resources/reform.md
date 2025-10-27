@@ -5,8 +5,6 @@ description: This resource contains a list of terms to know about reform, reviva
 file: /courses/21h-571-the-making-of-modern-south-asia-fall-2006/7d9f00bf052110ad7d1a8c100e83ef00_reform.pdf
 file_size: 21606
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
