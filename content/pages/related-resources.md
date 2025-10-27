@@ -7,22 +7,22 @@ ocw_type: CourseSection
 title: Related Resources
 uid: 691f8a6d-28e2-0340-4d44-4551b9a8363f
 ---
-[The Ramayana](http://www.maxwell.syr.edu/moynihan_sac.aspx?id=36507224353&terms=The+Ramayana) - A good Web site which shows the various manifestations and interpretations of the epic Ramayana.
+{{% resource_link "f83b22ce-2aa2-4e6c-9778-08c0cca61ba4" "The Ramayana" %}} - A good Web site which shows the various manifestations and interpretations of the epic Ramayana.
 
-[Background on The Ramayana](http://www.maxwell.syr.edu/moynihan_sac.aspx?id=36507224366&terms=Background+on+The+Ramayana) - Informative Web site on the various aspects of the Ramayana.
+{{% resource_link "86588ccd-18fb-4c80-a97a-f414cc46be8d" "Background on The Ramayana" %}} - Informative Web site on the various aspects of the Ramayana.
 
-[Hymns from the Rig Veda](http://www.wsu.edu/~wldciv/world_civ_reader/world_civ_reader_1/rig_veda.html)
+{{% resource_link "3dde64e2-d7e4-4b1f-87fa-ed29759bdd37" "Hymns from the Rig Veda" %}}
 
-[Harappan Civilization](http://www.harappa.com/) - A great Web site for browsing for pre-historic artefacts.
+{{% resource_link "94f96dfa-a97d-4d1b-a51b-0ac2b0e019e0" "Harappan Civilization" %}} - A great Web site for browsing for pre-historic artefacts.
 
-[Digital South Asia Library](http://dsal.uchicago.edu/index.html)
+{{% resource_link "986f6a92-8b57-4177-bb17-8bd57198e7f2" "Digital South Asia Library" %}}
 
-[Digital Colonial Documents](http://arrow.latrobe.edu.au/store/3/4/5/5/2/public/index.htm) - An excellent source of rare 19th century documents in colonial India.
+{{% resource_link "1fd00e96-77c0-498e-99fe-3ef0cfd749c3" "Digital Colonial Documents" %}} - An excellent source of rare 19th century documents in colonial India.
 
-[PBS Photo Essay: A Nation Divided](http://www.pbs.org/wnet/wideangle/episodes/soul-of-india/photo-essay-a-nation-divided/?p=2951) - Photo essay on communcal conflict in modern India.
+{{% resource_link "7091ab27-c132-41da-bcb0-c4a2f057ff6d" "PBS Photo Essay: A Nation Divided" %}} - Photo essay on communcal conflict in modern India.
 
-[Pakistan: The Intersection](http://www.thenation.com/article/pakistan-intersection/)
+{{% resource_link "bbf4934e-13b5-4ae3-a175-3da97f06bbf4" "Pakistan: The Intersection" %}}
 
-[Kashmir Re-Textured: A Photo Essay](http://kashmirretextured.com/main.html) - Good photographs by Rafiq Kathwari who was jailed and tortured by the Indian State. Great music.
+{{% resource_link "73153b10-1ad2-406d-b35b-9f2cb892d419" "Kashmir Re-Textured: A Photo Essay" %}} - Good photographs by Rafiq Kathwari who was jailed and tortured by the Indian State. Great music.
 
-[Perry-Castañeda Library Map Collection: India Maps](http://www.lib.utexas.edu/maps/india.html) - A wonderful resource for maps of South Asian countries and regions.
+{{% resource_link "ffce5c66-7670-4856-a1c1-f0d855edbf5f" "Perry-Castañeda Library Map Collection: India Maps" %}} - A wonderful resource for maps of South Asian countries and regions.

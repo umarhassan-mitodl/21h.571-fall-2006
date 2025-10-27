@@ -39,7 +39,7 @@ IMPORTANT TERMS
 Introduction
 {{< tdclose >}}{{< tdopen rowspan="3" >}}
 
-Selections from Doniger, Wendy, ed., and tr. *The Rig Veda*. Reprint ed. New York, NY: Penguin, 2005. ISBN: 9780140449891. Also available online: Griffith, Ralph T. H., tr. [*The Rig Veda*](http://www.sacred-texts.com/hin/rigveda/).
+Selections from Doniger, Wendy, ed., and tr. *The Rig Veda*. Reprint ed. New York, NY: Penguin, 2005. ISBN: 9780140449891. Also available online: Griffith, Ralph T. H., tr. {{% resource_link "1a51051c-f202-464f-84ba-e76504564bce" "*The Rig Veda*" %}}.
 
 Selections from Trautmann, Thomas R. *The Aryan Debate*. New York, NY: Oxford University Press, 2005. ISBN: 9780195669084.
 
@@ -49,7 +49,7 @@ Gadgill, Madhav, and Ramachandra Guha. "Forest and Fire." In *This Fissured Land
 
 Thapar, Romila. "Early India, an Overview." In *History and Beyond*. New York, NY: Oxford University Press, 2000, pp. 114-136. ISBN: 9780195647082.
 
-Film: [*Wedding of the Goddess*](http://www.maxwell.syr.edu/moynihan_sac.aspx?id=36507226859&terms=Wedding+of+the+Goddess). 1976.
+Film: {{% resource_link "faf8db9a-0feb-4a8a-a6ff-9077e88e12aa" "*Wedding of the Goddess*" %}}. 1976.
 
 Begin reading R. K. Narayan. *The Ramayana*.
 
@@ -71,7 +71,7 @@ Religions and castes
 The Ramayana and the Mahabharata
 {{< tdclose >}}{{< tdopen rowspan="2" >}}
 
-Selections from [*Arthashastra*](http://www.fordham.edu/halsall/india/kautilya1.html) and *Kamasutra*.
+Selections from {{% resource_link "75513e36-3a47-4ac6-af91-dc117b55b50a" "*Arthashastra*" %}} and *Kamasutra*.
 
 Chattopadhyaya, B. D. "Indian Archeology and the Epic Traditions." In *Studying Early India, Archeology, Texts and History Issues*. New York, NY: Anthem Press, 2005, pp. 29-38. ISBN: 9781843311324.
 
@@ -89,7 +89,7 @@ Regional powers and the making of "Hindu Classical" age
 Indo-Persian imperial society
 {{< tdclose >}}{{< tdopen rowspan="2" >}}
 
-Excerpts from the [*Quran*](https://www.alislam.org/quran/).
+Excerpts from the {{% resource_link "3a42e50d-50a3-4bea-9740-3cd84d219330" "*Quran*" %}}.
 
 Selections from *Alberuni's India*. Volume 1 and Volume 2. Edited by Edward C. Sachau. Chestnut Hill, MA: Adamant Media Corporation, 2004. ISBNs: 9781421263601 and 9781421263595, respectively.
 
@@ -137,13 +137,13 @@ From traders to rulers
 
 *Primary Sources*
 
-[Petition of Hindus against Abolition of Sati](http://chnm.gmu.edu/wwh/p/104.html) (1829).
+{{% resource_link "ca8153f5-e424-42bb-a500-8ef832edc8ad" "Petition of Hindus against Abolition of Sati" %}} (1829).
 
-Thomas Babington Macauley's "Government of India" speech in Parliament on the Government of India Bill (July 10, 1833) Paragraphs \[13b\] and \[13d\]. Available in his [Miscellaneous Writings and Speeches](http://www.gutenberg.org/etext/2170) (Vol. 4) via Project Gutenberg.
+Thomas Babington Macauley's "Government of India" speech in Parliament on the Government of India Bill (July 10, 1833) Paragraphs \[13b\] and \[13d\]. Available in his {{% resource_link "bf9de677-90f4-4247-a28c-a1febae66fac" "Miscellaneous Writings and Speeches" %}} (Vol. 4) via Project Gutenberg.
 
-[Macaulay's Minute on Education](http://www.columbia.edu/itc/mealac/pritchett/00generallinks/macaulay/txt_minute_education_1835.html) (1835) Paragraphs \[7\] to \[34\].
+{{% resource_link "498d3874-4b66-409d-a18e-f8e8371fc35c" "Macaulay's Minute on Education" %}} (1835) Paragraphs \[7\] to \[34\].
 
-[Rammohun Roy on Hindu Women](http://chnm.gmu.edu/wwh/p/101.html).
+{{% resource_link "c34ba62c-bea8-4288-b331-e5f3cf8bb0f3" "Rammohun Roy on Hindu Women" %}}.
 
 Metcalf, Thomas R. "Introduction." In *Ideologies of the Raj*. New York, NY: Cambridge University Press, 1994, pp. 1-27. ISBN: 9780521395472.
 
@@ -163,7 +163,7 @@ The Sepoy Mutiny
 Film showing
 {{< tdclose >}}{{< tdopen rowspan="3" >}}
 
-Film: Ray, Satyajit. [*Shatranj Ke Khiladi (The Chess Players)*](http://www.imdb.com/title/tt0076696/), 1977.
+Film: Ray, Satyajit. {{% resource_link "2b872b65-6dbe-463e-9c0c-7a72295b91d0" "*Shatranj Ke Khiladi (The Chess Players)*" %}}, 1977.
 
 *Modern South Asia*. Chapters 9-11.
 
@@ -241,7 +241,7 @@ Azad, Maulana Abul Kalam. *India Wins Freedom*. London, UK: Sangam Books, Ltd., 
 
 Jalal, Ayesha. *The Sole Spokesman*. New York, NY: Cambridge University Press, 1993, pp. 241-293. ISBN: 9780521458504.
 
-Film: Sathyu, M. S. [*Garam Hawa*](http://www.imdb.com/title/tt0073034/), 1973.
+Film: Sathyu, M. S. {{% resource_link "e4b76fe3-92b0-4c92-a623-07708f8e1f3d" "*Garam Hawa*" %}}, 1973.
 
 {{< tdclose >}}{{< tdopen rowspan="3" >}}
 ({{% resource_link "cf8759ee-ef89-75dd-c927-464a1d68ff27" "PDF" %}})
@@ -293,7 +293,7 @@ Ali, Agha Shahid. *The Country Without a Post Office: Poems*. New York, NY: W.W.
 
 Bose, Sumantra. *The Challenge in Kashmir: Democracy, Self-Determination, and a Just Peace*. London, UK: Sage Publications, 1997, pp. 30-104. ISBN: 9780803993501.
 
-Film: Patwardhan, Anand. [*In the Name of God*](http://www.patwardhan.com/films/RamkeNam.htm), 1992.
+Film: Patwardhan, Anand. {{% resource_link "c4c47e33-783e-45f7-8922-dd031391c069" "*In the Name of God*" %}}, 1992.
 
 {{< tdclose >}}{{< tdopen rowspan="5" >}}
  
